@@ -3,6 +3,10 @@
 </template>
 
 <style>
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   padding: 0;
   margin: 0;

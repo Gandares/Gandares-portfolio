@@ -1,11 +1,17 @@
 <template>
   <div id=MainPageContainer>
     <Header/>
-    <h1>Hola Nuxt.js</h1>
+    <SetUpImage/>
+    <AboutMe/>
   </div>
 </template>
 
 <style>
+
+#MainPageContainer{
+  padding: 0;
+  margin: 0;
+}
 </style>
 
 <script>

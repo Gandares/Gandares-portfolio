@@ -1,7 +1,7 @@
 <template>
     <div id="HeaderContainer">
         <a href="#" id="GandaresHeader">Gandares</a>
-        <a href="#" class="HeaderLinks">About Me</a>
+        <a href="#AboutMeTitle" class="HeaderLinks">About Me</a>
         <a href="#" class="HeaderLinks">Professional Proyects</a>
         <a href="#" class="HeaderLinks">Personal Proyects</a>
         <a href="#" class="HeaderLinks">CV</a>
@@ -12,6 +12,8 @@
 @import url('https://fonts.cdnfonts.com/css/public-pixel');
 
 #HeaderContainer {
+    position: fixed;
+    overflow: hidden;
     width: 100%;
     height: 51px;
     background-color: black;
