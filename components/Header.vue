@@ -9,8 +9,6 @@
 </template>
 
 <style>
-@import url('https://fonts.cdnfonts.com/css/public-pixel');
-
 #HeaderContainer {
     position: fixed;
     overflow: hidden;
@@ -28,17 +26,14 @@
 
 .HeaderLinks {
     height: 65%;
-    font-size: 80%;
     padding: 18px 16px 0px 16px;
 }
 
 #HeaderContainer a {
-    font-family: 'Public Pixel', sans-serif;
     float: left;
     text-decoration: none;
     color: white;
     margin-right: 5px;
-    word-spacing: -5px;
 }
 
 #HeaderContainer a:hover {
