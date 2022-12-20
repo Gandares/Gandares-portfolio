@@ -3,6 +3,7 @@
     <Header/>
     <SetUpImage/>
     <AboutMe/>
+    <ProfessionalProjects/>
   </div>
 </template>
 
@@ -16,6 +17,6 @@
 
 <script>
 export default {
-  name: 'PruebaNuxt'
+  name: 'MainPage'
 }
 </script>
