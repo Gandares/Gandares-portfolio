@@ -1,10 +1,13 @@
 <template>
 <div id="ProfessionalContainer">
     <div id="ProfessionalImageAndTitle">
-        <div class="element" style="width: 23%;"><img id="TitleImageProfessional" src="@/static/person-circle.png" /></div>
+        <div class="element" style="width: 23%;"><img id="TitleImageProfessional" src="@/static/corporationbuildingicon.png" /></div>
         <div class="element" id="ProfessionalTitle">Professional Projects</div>
     </div>
-    <div></div>
+    <div id="ProfessionalImageandDescription">
+        <div style="text-align: center; padding-top: 50px;"><img style="width: 37%" src="@/static/emptyfornow.png" /></div>
+        <div style="text-align: center; padding-bottom: 50px;"><img style="width: 37%;" src="@/static/travolta.gif" /></div>
+    </div>
 </div>
 </template>
 
@@ -32,9 +35,12 @@
 
 #TitleImageProfessional {
     float: right;
-    width: 20%;
+    width: 18%;
 }
 
+#ProfessionalImageandDescription {
+    background-color: #444;
+}
 
 </style>
 
