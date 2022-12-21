@@ -1,7 +1,7 @@
 <template>
     <div id="AboutMeContainer">
         <div id="ImageandTitle">
-            <div class="element" style="width: 37%;"><img id="TitleImage" src="@/static/person-circle.png" /></div>
+            <div class="element" style="width: 37%;"><img id="TitleImage" src="@/static/info.png" /></div>
             <div class="element" id="AboutMeTitle">About Me</div>
         </div>
         <div id="ImageandDescription">
@@ -35,7 +35,8 @@
 
 #TitleImage {
     float: right;
-    width: 15%;
+    margin-right: 10px;
+    width: 12%;
 }
 
 #ImageandDescription {

@@ -4,6 +4,7 @@
     <SetUpImage/>
     <AboutMe/>
     <ProfessionalProjects/>
+    <PersonalProjects/>
   </div>
 </template>
 
@@ -16,7 +17,10 @@
 </style>
 
 <script>
+import PersonalProjects from './PersonalProjects.vue';
+
 export default {
-  name: 'MainPage'
+    name: "MainPage",
+    components: { PersonalProjects }
 }
 </script>
