@@ -29,8 +29,8 @@
     font-size: 6vw;
     background-color: #333;
     color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
 }
 
 #TitleImage {
@@ -56,12 +56,12 @@
     font-size: 1.6vw;
     line-height: 150%;
     color: white;
-    padding: 50px 5% 50px 5%;
+    padding: 4vh 5% 4vh 5%;
 }
 
 #DescriptionImage {
-    width: 80%;
-    padding: 25px 0% 25px 5%;
+    width: 20vw;
+    padding: 2vh 0 2vh 0;
 }
 </style>
 

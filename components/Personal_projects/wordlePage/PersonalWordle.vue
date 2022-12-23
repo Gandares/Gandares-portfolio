@@ -2,7 +2,7 @@
     <div id="WordleContainer" v-on:click="toWordle">
         <div id="WordleTitle">Wordle Copy</div>
         <div id="WordleDescriptionAndImage">
-            <img id="WordleImage" class="element" src="@/static/wordleImage.png" />
+            <img id="WordleImage" class="element" src="@/static/wordle2.png" />
             <div id="WordleDescription" class="element">Challenge proposed by myself to make a copy of the famous web minigame "Wordle".</div>
         </div>
         <hr/>
@@ -20,8 +20,8 @@
     color: white;
     font-size: 3vw;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 #WordleDescriptionAndImage {
@@ -30,16 +30,17 @@
 }
 
 #WordleImage {
-    width: 80%;
-    padding: 20px 5% 20px 5%;
+    width: 35vw;
+    padding: 2vh 5% 2vh 5%;
 }
 
 #WordleDescription {
     color: white;
+    width: 60%;
     font-size: 2vw;
     text-align: center;
     line-height: 150%;
-    padding: 20px 5% 20px 0;
+    padding: 2vh 5% 2vh 0;
 }
 </style>
 

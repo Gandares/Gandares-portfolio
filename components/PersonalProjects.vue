@@ -29,8 +29,8 @@
     font-size: 6vw;
     background-color: #333;
     color: white;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
 }
 
 #TitleImagePersonal {

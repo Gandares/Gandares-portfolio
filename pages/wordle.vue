@@ -1,5 +1,5 @@
 <template>
-    <InProcess/>
+    <PagePersonalWordle/>
 </template>
 
 <style>
@@ -14,10 +14,10 @@ body{
 </style>
 
 <script>
-import InProcess from '../components/InProcess.vue';
+import PagePersonalWordle from '../components/Personal_projects/wordlePage/PagePersonalWordle.vue';
 
 export default {
-    name: "WordlePersonalProjectPage",
-    components: { InProcess }
+    name: "Wordle",
+    components: { PagePersonalWordle }
 }
 </script>
