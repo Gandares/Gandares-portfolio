@@ -26,7 +26,7 @@
 
 #ProfessionalTitle {
     float: left;
-    font-size: 400%;
+    font-size: 6vw;
     background-color: #333;
     color: white;
     padding-top: 30px;
@@ -36,6 +36,7 @@
 #TitleImageProfessional {
     float: right;
     width: 18%;
+    margin-right: 10px;
 }
 
 #ProfessionalImageandDescription {

@@ -26,7 +26,7 @@
 
 #AboutMeTitle {
     float: left;
-    font-size: 500%;
+    font-size: 6vw;
     background-color: #333;
     color: white;
     padding-top: 30px;
@@ -53,14 +53,14 @@
 #AboutMeDescription {
     margin-left: 10px;
     text-align: center;
-    font-size: 150%;
+    font-size: 1.6vw;
     line-height: 150%;
     color: white;
     padding: 50px 5% 50px 5%;
 }
 
 #DescriptionImage {
-    width: 100%;
+    width: 80%;
     padding: 25px 0% 25px 5%;
 }
 </style>

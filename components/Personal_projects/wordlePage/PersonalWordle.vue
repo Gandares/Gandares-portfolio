@@ -18,7 +18,7 @@
 #WordleTitle {
     background-color: #be00ff;
     color: white;
-    font-size: 200%;
+    font-size: 3vw;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -36,9 +36,10 @@
 
 #WordleDescription {
     color: white;
-    font-size: 150%;
+    font-size: 2vw;
     text-align: center;
     line-height: 150%;
+    padding: 20px 5% 20px 0;
 }
 </style>
 

@@ -6,6 +6,10 @@
 
 <style>
 
+div img {
+  width: 37%;
+}
+
 </style>
 
 <script>
