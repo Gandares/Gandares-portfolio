@@ -14,7 +14,7 @@
 <style>
 #AboutMeContainer {
     padding: 0;
-    margin-top: -5px;
+    margin-top: -2vh;
 }
 
 #ImageandTitle {

@@ -1,10 +1,10 @@
 <template>
     <div id="HeaderContainer">
-        <a href="#" id="GandaresHeader">Gandares</a>
-        <a href="#AboutMeContainer" class="HeaderLinks">About Me</a>
-        <a href="#ProfessionalContainer" class="HeaderLinks">Professional Proyects</a>
-        <a href="#PersonalContainer" class="HeaderLinks">Personal Proyects</a>
-        <a href="#" class="HeaderLinks">CV</a>
+        <a href="/#" id="GandaresHeader">Gandares</a>
+        <a href="/#AboutMeContainer" class="HeaderLinks">About Me</a>
+        <a href="/#ProfessionalContainer" class="HeaderLinks">Professional Proyects</a>
+        <a href="/#PersonalContainer" class="HeaderLinks">Personal Proyects</a>
+        <a href="/#" class="HeaderLinks">CV</a>
     </div>
 </template>
 

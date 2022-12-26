@@ -1,5 +1,6 @@
 <template>
     <div id="PagePersonalWordleContainer">
+        <Header/>
         <div id="PagePersonalWordleTitle">Wordle Copy</div>
         <div id="PagePersonalWordleDescription"><p>This was a project made for a subject, the main idea was create a simple game using the HTML element canvas.</p>
             <p>This is a web application made with nodejs and express in the backend, and html, css y javascript in the frontend.</p>
@@ -37,7 +38,7 @@ body {
     color: white;
     font-size: 6vw;
     text-align: center;
-    padding: 2vh 0 2vh 0;
+    padding: 9vh 0 2vh 0;
 }
 
 #PagePersonalWordleDescription {
@@ -70,10 +71,11 @@ body {
 </style>
 
 <script>
+import Header from '../../Header.vue';
 import InProcess from '../../InProcess.vue';
 
 export default {
     name: "PagePersonalWordle",
-    components: { InProcess }
+    components: { InProcess, Header }
 }
 </script>

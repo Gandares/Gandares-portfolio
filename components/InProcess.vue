@@ -1,5 +1,5 @@
 <template>
-    <div style="padding-top: 50px; padding-bottom: 50px; text-align: center;">
+    <div style="padding-top: 4vh; padding-bottom: 4vh; text-align: center;">
         <img src="@/static/inprocess.png" />
     </div>
 </template>
@@ -7,7 +7,7 @@
 <style>
 
 div img {
-  width: 37%;
+  width: 37vw;
 }
 
 </style>
