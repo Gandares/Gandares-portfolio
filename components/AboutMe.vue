@@ -61,7 +61,7 @@
 
 #DescriptionImage {
     width: 20vw;
-    padding: 2vh 0 2vh 0;
+    padding: 2vh 0 2vh 2vw;
 }
 </style>
 

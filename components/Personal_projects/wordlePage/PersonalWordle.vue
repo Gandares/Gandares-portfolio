@@ -13,6 +13,7 @@
 
 #WordleContainer:hover {
     background-color: #be00ff;
+    cursor: pointer;
 }
 
 #WordleTitle {

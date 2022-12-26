@@ -28,7 +28,7 @@
 
 <style>
 
-#PagePersonalWordleContainer {
+body {
     background-color: #444;
 }
 

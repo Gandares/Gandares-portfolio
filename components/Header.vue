@@ -3,7 +3,7 @@
         <a href="#" id="GandaresHeader">Gandares</a>
         <a href="#AboutMeContainer" class="HeaderLinks">About Me</a>
         <a href="#ProfessionalContainer" class="HeaderLinks">Professional Proyects</a>
-        <a href="#" class="HeaderLinks">Personal Proyects</a>
+        <a href="#PersonalContainer" class="HeaderLinks">Personal Proyects</a>
         <a href="#" class="HeaderLinks">CV</a>
     </div>
 </template>
@@ -13,27 +13,28 @@
     position: fixed;
     overflow: hidden;
     width: 100%;
-    height: 51px;
+    height: 8vh;
     background-color: black;
     opacity: 0.5;
 }
 
 #GandaresHeader {
-    height: 69%;
-    font-size: 180%;
-    padding: 8px 16px 8px 16px;
+    height: 4vh;
+    font-size: 2.1vw;
+    padding: 1.5vh 2vw 3vh 2vw;
 }
 
 .HeaderLinks {
-    height: 65%;
-    padding: 18px 16px 0px 16px;
+    height: 3vh;
+    font-size: 1.2vw;
+    padding: 2.5vh 2vw 2.5vh 2vw;
 }
 
 #HeaderContainer a {
     float: left;
     text-decoration: none;
     color: white;
-    margin-right: 5px;
+    margin-right: 1vw;
 }
 
 #HeaderContainer a:hover {
