@@ -14,7 +14,7 @@ body{
 </style>
 
 <script>
-import PagePersonalWordle from '../components/PagePersonalWordle.vue';
+import PagePersonalWordle from '../components/Personal_projects/wordlePage/PagePersonalWordle.vue';
 
 export default {
     name: "Wordle",
