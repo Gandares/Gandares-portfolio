@@ -38,7 +38,7 @@
 
 <style>
 
-body {
+#PagePersonalSpaceSurvivalContainer {
     background-color: #444;
 }
 
