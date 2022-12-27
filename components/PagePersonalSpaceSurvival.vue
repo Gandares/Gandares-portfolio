@@ -38,7 +38,7 @@
 
 <style>
 
-#PagePersonalSpaceSurvivalContainer {
+body {
     background-color: #444;
 }
 
@@ -81,8 +81,8 @@
 
 
 <script>
-import Header from '../../Header.vue';
-import InProcess from '../../InProcess.vue';
+import Header from './Header.vue';
+import InProcess from './InProcess.vue';
 
 export default {
     name: "PagePersonalSpaceSurvival",

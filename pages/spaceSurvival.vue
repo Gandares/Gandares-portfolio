@@ -14,7 +14,7 @@ body{
 </style>
 
 <script>
-import PagePersonalSpaceSurvival from '../components/Personal_projects/SpaceSurvivalPage/PagePersonalSpaceSurvival.vue';
+import PagePersonalSpaceSurvival from '../components/PagePersonalSpaceSurvival.vue';
 
 export default {
     name: "SpaceSurvival",
