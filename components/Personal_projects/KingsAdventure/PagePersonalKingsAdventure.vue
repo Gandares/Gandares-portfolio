@@ -2,8 +2,16 @@
     <div id="PagePersonalKingsAdventureContainer">
         <Header/>
         <div id="PagePersonalKingsAdventureTitle">King Adventure</div>
-        <div id="PagePersonalKingsAdventureDescription">
-
+        <div id="PagePersonalKingsAdventureDescription"><p>King Adventure is a platform video game created principally to explore the mechanics of this kind of games.</p>
+            <p>The game map is composed of 2 zones, the tutorial and the cave.</p>
+            <p>&emsp; - The first part explains the controls and have a low difficulty. At some point of this first stage, there are a few boxes blocking the way, forcing the player to follow the path going up. Once the user reach the top, there is a sanctuary where is a chest that contains a sword (that being used to destroy the boxes).</p>
+            <p>&emsp; - Once the player destroys the boxes, the entrance to the cave is clear and start the second stage of the video game, the tutorial was clear and now the user have to use all the knowledge and abilities obtained. The cave has a medium difficulty and some obstacles to pass through to reach the end.</p>
+            <p>The mechanics that I wanted to explore in this game were:</p>
+            <p>&emsp; - Checkpoints.</p>
+            <p>&emsp; - Respawn.</p>
+            <p>&emsp; - Moving platforms.</p>
+            <p>&emsp; - Destroyable boxes.</p>
+            <p>&emsp; - Movement (A little rough)</p>
         </div>
         <div id="PagePersonalKingsAdventureTechnologies">
             <img src="@/static/tecnologias/unity.png" />
