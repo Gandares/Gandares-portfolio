@@ -26,12 +26,12 @@
             <img src="@/static/tecnologias/csharp.png" />
         </div>
         <div id="PagePersonalSpaceSurvivalImages">
-            <img src="@/static/spaceSurvival1.png" />
-            <img src="@/static/spaceSurvival2.png" />
-            <img src="@/static/spaceSurvival3.png" />
-            <img src="@/static/spaceSurvival4.png" />
-            <img src="@/static/spaceSurvival5.png" />
-            <img src="@/static/spaceSurvival6.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival1.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival2.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival3.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival4.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival5.png" />
+            <img src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival6.png" />
         </div>
     </div>
 </template>

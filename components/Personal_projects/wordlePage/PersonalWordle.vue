@@ -2,7 +2,7 @@
     <div id="WordleContainer" v-on:click="toWordle">
         <div id="WordleTitle">Wordle Copy</div>
         <div id="WordleDescriptionAndImage">
-            <img id="WordleImage" class="element" src="@/static/wordle2.png" />
+            <img id="WordleImage" class="element" src="@/static/Juegos/Personales/wordle/wordle2.png" />
             <div id="WordleDescription" class="element">Challenge proposed by myself to make a copy of the famous web minigame "Wordle".</div>
         </div>
         <hr/>

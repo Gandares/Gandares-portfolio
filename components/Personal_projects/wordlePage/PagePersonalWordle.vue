@@ -21,8 +21,8 @@
             <img src="@/static/tecnologias/json.png" />
         </div>
         <div id="PagePersonalWordleImages">
-            <img src="@/static/wordle1.png" />
-            <img src="@/static/wordle2.png" />
+            <img src="@/static/Juegos/Personales/wordle/wordle1.png" />
+            <img src="@/static/Juegos/Personales/wordle/wordle2.png" />
         </div>
     </div>
 </template>

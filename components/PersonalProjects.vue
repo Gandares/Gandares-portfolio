@@ -7,6 +7,7 @@
         <div id="PersonalImageandDescription">
             <PersonalWordle/>
             <PersonalSpaceSurvival/>
+            <PersonalKingsAdventure/>
             <InProcess/>
         </div>
     </div>
@@ -47,11 +48,12 @@
 </style>
     
 <script>
+import PersonalKingsAdventure from './Personal_projects/KingsAdventure/PersonalKingsAdventure.vue';
 import PersonalSpaceSurvival from './Personal_projects/SpaceSurvivalPage/PersonalSpaceSurvival.vue';
 import PersonalWordle from './Personal_projects/wordlePage/PersonalWordle.vue';
 
     export default {
     name: "PersonalProject",
-    components: { PersonalWordle, PersonalSpaceSurvival }
+    components: { PersonalWordle, PersonalSpaceSurvival, PersonalKingsAdventure }
 }
 </script>

@@ -2,8 +2,8 @@
     <div id="SpaceSurvivalContainer" v-on:click="toWordle">
         <div id="SpaceSurvivalTitle">Space Survival</div>
         <div id="SpaceSurvivalDescriptionAndImage">
-            <img id="SpaceSurvivalImage" class="element" src="@/static/spaceSurvival4.png" />
             <div id="SpaceSurvivalDescription" class="element">Arcade video game where different enemies will appear above the screen and the user has to survive. As time goes by, more variety of ships will appear and faster.</div>
+            <img id="SpaceSurvivalImage" class="element" src="@/static/Juegos/Personales/spaceSurvival/spaceSurvival4.png" />
         </div>
         <hr/>
     </div>
@@ -41,7 +41,7 @@
     font-size: 2vw;
     text-align: center;
     line-height: 150%;
-    padding: 2vh 5% 2vh 0;
+    padding: 2vh 0 2vh 5%;
 }
 </style>
 
