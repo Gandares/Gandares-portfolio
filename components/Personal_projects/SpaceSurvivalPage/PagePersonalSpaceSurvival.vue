@@ -42,7 +42,7 @@ body {
     background-color: #444;
 }
 
-#PagePersonalWordleTitle {
+#PagePersonalSpaceSurvivalTitle {
     background-color: #333;
     color: white;
     font-size: 6vw;
@@ -50,42 +50,40 @@ body {
     padding: 9vh 0 2vh 0;
 }
 
-#PagePersonalWordleDescription {
+#PagePersonalSpaceSurvivalDescription {
     color: white;
     font-size: 1.5vw;
     text-align: justify;
     padding: 2vh 5% 2vh 5%;
 }
 
-#PagePersonalWordleTechnologies {
+#PagePersonalSpaceSurvivalTechnologies {
     text-align: center;
 }
 
-#PagePersonalWordleTechnologies img {
+#PagePersonalSpaceSurvivalTechnologies img {
     width: 7vw;
     height: 7vw;
     padding: 2vh 2.5% 2vh 2.5%;
 }
 
-#PagePersonalWordleImages {
+#PagePersonalSpaceSurvivalImages {
     text-align: center;
 }
 
-#PagePersonalWordleImages img {
+#PagePersonalSpaceSurvivalImages img {
     height: 30vw; 
     width: auto;
     padding: 2vh 2.5% 2vh 2.5%;
 }
-
 </style>
 
 
 <script>
 import Header from '../../Header.vue';
-import InProcess from '../../InProcess.vue';
 
 export default {
     name: "PagePersonalSpaceSurvival",
-    components: { InProcess, Header }
+    components: { Header }
 }
 </script>
