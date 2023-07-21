@@ -6,7 +6,7 @@
         </div>
         <div id="ImageandDescription">
             <div class="element"><img id="DescriptionImage" src="@/static/Positivo.png" /></div>
-            <div class="element" id="AboutMeDescription">My name is Óscar González García, I am from Spain and I am 25 years old. I am graduated in Computer Engineering and master's degree in Videogame Development at the University of La Laguna. I love the world of computing and I would like to dedicate myself to it, specifically in the field of the master's degree.</div>
+            <div class="element" id="AboutMeDescription">My name is Óscar González García, I am from Spain and I am 26 years old. I am graduated in Computer Engineering and master's degree in Videogame Development at the University of La Laguna. I love the world of computing and I would like to dedicate myself to it, specifically in the field of the master's degree.</div>
         </div>
     </div>
 </template>
